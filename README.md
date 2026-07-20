@@ -1,3 +1,3 @@
 # Class-Routine-Exam-Routine-Mobile-App
-mobile app development
-#This is an on going project. It helps students to create a exam routine pdf and also a class routine pdf. The idea was an adaptation of one of  our batchmates website idea for class routine. We tried to adapt that idea and also added a new feature for exam routine generator
+# mobile app development
+# User can upload an docx file of the whole routine of the current session and then in home page they can select courses and the course class schedule will appear and pdf option will also be available. same as for exam routine. And there is also task management system where user can select a course then add notes and files for that course 
